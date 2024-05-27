@@ -1,0 +1,21 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/PesquisadorAlura/PesquisadorAlura.sln
+/PesquisadorAlura/.vs/PesquisadorAlura/v17
+/PesquisadorAlura/.vs/PesquisadorAlura/FileContentIndex
+/PesquisadorAlura/.vs
+/PesquisadorAlura/Api/bin/Debug/net7.0
+/PesquisadorAlura/Api/obj
+/PesquisadorAlura/Api/Properties
+/PesquisadorAlura/AppServices/bin/Debug/net7.0
+/PesquisadorAlura/AppServices/obj
+/PesquisadorAlura/Data/bin/Debug/net7.0
+/PesquisadorAlura/Data/obj
+/PesquisadorAlura/Domain/bin/Debug/net7.0
+/PesquisadorAlura/Domain/obj
+/PesquisadorAlura/IoC/bin/Debug/net7.0
+/PesquisadorAlura/IoC/obj
+/PesquisadorAlura/PesquisadorAlura/obj
+/PesquisadorAlura/ScrapingServices/obj
